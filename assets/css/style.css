@@ -1,13 +1,17 @@
 * {
-    background-color: aliceblue;
+    background-color: rgb(178, 192, 206);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 .flexbox {
     display: flex;
     flex-wrap: wrap;
 }
-.current-trees img.resize{
+
+.current-trees-image img{
     height: auto; 
-    width: auto; 
     max-width: 300px; 
-    max-height: 300px;
+    padding: 20px;
 }
