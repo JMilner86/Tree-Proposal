@@ -5,6 +5,9 @@
     display: flex;
     flex-wrap: wrap;
 }
-.current-trees-image {
-    
+.current-trees img.resize{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
