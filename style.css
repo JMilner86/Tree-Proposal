@@ -1,0 +1,7 @@
+* {
+    background-color: aliceblue;
+}
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+}
