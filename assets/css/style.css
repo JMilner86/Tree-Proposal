@@ -1,17 +1,22 @@
 * {
     background-color: rgb(178, 192, 206);
-    margin: 0;
+    margin: 15px;
     padding: 0;
     box-sizing: border-box;
 }
 
-.flexbox {
-    display: flex;
-    flex-wrap: wrap;
+.hero-image {
+    justify-content: center;
 }
 
 .current-trees-image img{
     height: auto; 
     max-width: 300px; 
     padding: 20px;
+    
 }
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+}    
